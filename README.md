@@ -86,12 +86,12 @@ ___
 </h2>
  
 <br>
-
+<!--
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=AbHaMaDa&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbHaMaDa&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
-
+-->
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbHaMaDa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
