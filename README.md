@@ -1,8 +1,9 @@
-## Hi there 👋
----
+
 <div align="center">
   <img  width='800px' height='400px' src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png" />
 </div align="center">
+
+___
 
 <!--
 **AbHaMaDa/AbHaMaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
