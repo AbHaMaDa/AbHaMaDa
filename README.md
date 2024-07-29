@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img width='1000px' height='400px' src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png" />
+<img width='1000px' height='600px' src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png" />
 
 <!--
 **AbHaMaDa/AbHaMaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
