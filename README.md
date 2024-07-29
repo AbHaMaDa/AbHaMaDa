@@ -4,15 +4,17 @@
 </div align="center">
 
 ___
+<!--
 
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/AbHaMaDa/AbHaMaDa"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/AbHaMaDa"/>
  <img src="https://badges.pufler.dev/commits/monthly/AbHaMaDa" />
 
 </p>
+-->
+
 <!--
 **AbHaMaDa/AbHaMaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
