@@ -56,8 +56,9 @@ ___
 <!-- Next.js -->
 <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next.js">
 
-
 </p>
+
+---
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
@@ -72,19 +73,13 @@ ___
  <a href="https://x.com/abdallahamada99">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
+
+<a href="https://www.instagram.com/abdallah_hamada_153/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+  
 </p>
 
-<!--
-**AbHaMaDa/AbHaMaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
