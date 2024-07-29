@@ -3,6 +3,16 @@
   <img  width='700px' height='400px' src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png" />
 </div align="center">
 
+---
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/AbHaMaDa/AbHaMaDa"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/AbHaMaDa"/>
+ <img src="https://badges.pufler.dev/commits/monthly/AbHaMaDa" />
+
+</p>
+
 ___
 
 <h2 align="center">Technology Stack <img src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/laptop.gif" width="50"></h2>
