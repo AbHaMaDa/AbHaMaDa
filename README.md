@@ -5,7 +5,7 @@
 
 ___
 
-<h2 align="center">Technology Stack <img src="https://github.com/AbHaMaDa/AbHaMaD/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
 <!-- HTML -->
