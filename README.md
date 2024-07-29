@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  width='800px' height='400px' src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png" />
+  <img  width='600px' height='400px' src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png" />
 </div align="center">
 
 ___
