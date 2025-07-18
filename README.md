@@ -6,7 +6,7 @@
 ---
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/AbHaMaDa/AbHaMaDa"/> 
+ <img src="https://img.shields.io/github/stars/AbHaMaDa/AbHaMaDa"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/AbHaMaDa"/>
  <img src="https://badges.pufler.dev/commits/monthly/AbHaMaDa" />
