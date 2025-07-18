@@ -6,17 +6,6 @@
 ---
 <p align="center">
  
- <img src="https://img.shields.io/github/stars/AbHaMaDa/AbHaMaDa"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
-<!-- Stars Badge -->
-<img src="https://img.shields.io/github/stars/AbHaMaDa/AbHaMaDa" alt="GitHub Stars" />
-
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AbHaMaDa&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbHaMaDa&layout=compact" alt="Top Languages" />
-
-
 </p>
 
 
