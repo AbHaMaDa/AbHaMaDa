@@ -1,11 +1,6 @@
 <!-- ============================== WAVE HEADER ============================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F38400,100:F76C5E&height=200&section=header&text=Abdallah%20Hamada&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
 
-<!-- ============================== HEADER IMAGE ============================== -->
-<div align="center">
-  <img width="700px" src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/img%20header.png?raw=true" alt="Hi There, I'm Abdallah Hamada — A FullStack Web Developer, who's Trying Hard To Be a Pioneer in something" />
-</div>
-
 <!-- ============================== TYPING ANIMATION ============================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -16,8 +11,6 @@
 <!-- ============================== STATS BADGES ============================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AbHaMaDa&label=Profile%20Views&color=f38400&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/AbHaMaDa?label=Followers&style=for-the-badge&color=f38400&labelColor=000000" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/AbHaMaDa?label=Stars&style=for-the-badge&color=f38400&labelColor=000000" alt="Stars"/>
 </div>
 
 ---
@@ -43,36 +36,40 @@
 <h2 align="center">🛠 Technology Stack <img src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/laptop.gif?raw=true" width="40"></h2>
 
 <h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs&theme=dark" alt="Frontend stack" />
+  </a>
+</div>
 
 <h4 align="center">Backend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/OOP-%2300ADD8.svg?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming">
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Backend stack" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OOP-%2300ADD8.svg?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming" height="48" />
+</div>
 
 <h4 align="center">Database</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PhpMyAdmin-%23666970.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PhpMyAdmin">
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database stack" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PhpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PhpMyAdmin" height="48" />
+</div>
 
 <h4 align="center">Other</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/AJAX-%230F8BB4.svg?style=for-the-badge&logoColor=white" alt="AJAX">
-  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AJAX-%230F8BB4.svg?style=for-the-badge&logoColor=white" alt="AJAX" height="48" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON" height="48" />
+  &nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+  </a>
+</div>
 
 ---
 
@@ -134,7 +131,7 @@
   <a href="https://x.com/abdallahamada99">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/abdallah_hamada_153/" target="_blank">
+  <a href="https://www.instagram.com/abdallah_hamada_99/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
