@@ -108,25 +108,11 @@
 
 ---
 
-<!-- ============================== GITHUB STATS ============================== -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbHaMaDa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F38400&icon_color=F38400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbHaMaDa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F38400&langs_count=8" alt="Top Languages"/>
-</div>
+<!-- ============================== STREAK ============================== -->
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AbHaMaDa&theme=radical&hide_border=true&background=0D1117&stroke=F38400&ring=F38400&fire=F38400&currStreakLabel=F38400" alt="GitHub Streak"/>
-</div>
-
----
-
-<!-- ============================== TROPHIES ============================== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbHaMaDa&theme=radical&no-frame=true&column=-1&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
