@@ -61,7 +61,7 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/><br/><sub><b>Laravel</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub></td>
-    <td align="center" width="100"><img src="https://api.iconify.design/logos/medusa.svg" width="48" height="48" alt="Medusa"/><br/><sub><b>Medusa</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos/medusa.svg" width="48" height="48" alt="Medusa"/><br/><sub><b class="text-white">Medusa</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
     <td align="center" width="100"><img src="https://api.iconify.design/carbon/cube.svg?color=%2300ADD8" width="48" height="48" alt="OOP"/><br/><sub><b>OOP</b></sub></td>
   </tr>
