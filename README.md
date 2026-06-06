@@ -160,19 +160,8 @@
 ---
 
 <!-- ============================== QUOTE ============================== -->
-<h2 align="center">💭 Quote</h2>
-
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="800">
-        <h3>
-          <i>"I'm not looking for the easiest way, but rather the way that makes me understand how the road was made in the first place."</i>
-        </h3>
-        <sub>— <b>ChatGPT</b>, about me</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%27m%20not%20looking%20for%20the%20easiest%20way%2C%20but%20rather%20the%20way%20that%20makes%20me%20understand%20how%20the%20road%20was%20made%20in%20the%20first%20place.&author=ChatGPT%2C%20about%20me" alt="Quote" />
 </div>
 
 <!-- ============================== WAVE FOOTER ============================== -->
