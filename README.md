@@ -1,10 +1,10 @@
 <!-- ============================== WAVE HEADER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F38400,100:F76C5E&height=200&section=header&text=Abdallah%20Hamada&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F38400,100:F76C5E&height=200&section=header&text=ABdaLLaH%20HaMaDa&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- ============================== TYPING ANIMATION ============================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=F38400&center=true&vCenter=true&width=720&lines=Hi+There%2C+I'm+Abdallah+Hamada+%F0%9F%91%8B;A+FullStack+Web+Developer;Trying+Hard+To+Be+a+Pioneer+in+Something" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=F38400&center=true&vCenter=true&width=720&lines=Hi+There%2C+I'm+ABdaLLaH+HaMaDa+%F0%9F%91%8B;A+FullStack+Web+Developer;Trying+Hard+To+Be+a+Pioneer+in+Something" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,39 +37,36 @@
 
 <h4 align="center">Frontend</h4>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs&theme=dark" alt="Frontend stack" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs&titles=true&theme=dark" alt="Frontend stack" />
   </a>
 </div>
 
 <h4 align="center">Backend</h4>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Backend stack" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel&titles=true&theme=dark" alt="Backend stack" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OOP-%2300ADD8.svg?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming" height="48" />
 </div>
 
 <h4 align="center">Database</h4>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database stack" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,phpmyadmin&titles=true&theme=dark" alt="Database stack" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PhpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PhpMyAdmin" height="48" />
 </div>
 
-<h4 align="center">Other</h4>
+<h4 align="center">Concepts & Tools</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/AJAX-%230F8BB4.svg?style=for-the-badge&logoColor=white" alt="AJAX" height="48" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON" height="48" />
-  &nbsp;
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=json,git,github,vscode,postman&titles=true&theme=dark" alt="Tools" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-%2300ADD8.svg?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/AJAX-%230F8BB4.svg?style=for-the-badge&logoColor=white" alt="AJAX" />
+</p>
 
 ---
 
@@ -82,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbHaMaDa&theme=radical&hide_border=true&background=0D1117&stroke=F38400&ring=F38400&fire=F38400&currStreakLabel=F38400" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AbHaMaDa&theme=radical&hide_border=true&background=0D1117&stroke=F38400&ring=F38400&fire=F38400&currStreakLabel=F38400" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -91,7 +88,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbHaMaDa&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbHaMaDa&theme=radical&no-frame=true&column=-1&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
