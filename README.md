@@ -36,37 +36,47 @@
 <h2 align="center">🛠 Technology Stack <img src="https://github.com/AbHaMaDa/AbHaMaDa/blob/main/images/laptop.gif?raw=true" width="40"></h2>
 
 <h4 align="center">Frontend</h4>
-<div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs&titles=true&theme=dark" alt="Frontend stack" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS"/><br/><sub><b>SASS</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery"/><br/><sub><b>jQuery</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="100"></td>
+  </tr>
+</table>
 
 <h4 align="center">Backend</h4>
-<div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel&titles=true&theme=dark" alt="Backend stack" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/><br/><sub><b>Laravel</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/carbon/cube.svg?color=%2300ADD8" width="48" height="48" alt="OOP"/><br/><sub><b>OOP</b></sub></td>
+  </tr>
+</table>
 
 <h4 align="center">Database</h4>
-<div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,phpmyadmin&titles=true&theme=dark" alt="Database stack" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL / SQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="48" height="48" alt="phpMyAdmin"/><br/><sub><b>phpMyAdmin</b></sub></td>
+  </tr>
+</table>
 
-<h4 align="center">Concepts & Tools</h4>
-<div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=json,git,github,vscode,postman&titles=true&theme=dark" alt="Tools" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-%2300ADD8.svg?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/AJAX-%230F8BB4.svg?style=for-the-badge&logoColor=white" alt="AJAX" />
-</p>
+<h4 align="center">Other</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi/sync.svg?color=%230F8BB4" width="48" height="48" alt="AJAX"/><br/><sub><b>AJAX</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/json/F7DF1E" width="48" height="48" alt="JSON"/><br/><sub><b>JSON</b></sub></td>
+  </tr>
+</table>
 
 ---
 

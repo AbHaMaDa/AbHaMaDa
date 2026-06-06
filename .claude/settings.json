@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(curl -sS -o /tmp/skilltest.svg -w \"HTTP %{http_code} | %{size_download} bytes | content-type=%{content_type}\\\\n\" \"https://go-skill-icons.vercel.app/api/icons?i=html,css,js&titles=true&theme=dark\")"
     ]
   }
 }
