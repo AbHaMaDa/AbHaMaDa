@@ -1,16 +1,16 @@
 <!-- ============================== WAVE HEADER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F38400,100:F76C5E&height=200&section=header&text=ABdaLLaH%20HaMaDa&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:3B82F6,100:A855F7&height=200&section=header&text=ABdaLLaH%20HaMaDa&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- ============================== TYPING ANIMATION ============================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=F38400&center=true&vCenter=true&width=720&lines=Hi+There%2C+I'm+ABdaLLaH+HaMaDa+%F0%9F%91%8B;A+FullStack+Web+Developer;Trying+Hard+To+Be+a+Pioneer+in+Something" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=720&lines=Hi+There%2C+I'm+ABdaLLaH+HaMaDa+%F0%9F%91%8B;A+FullStack+Web+Developer;Trying+Hard+To+Be+a+Pioneer+in+Something" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- ============================== STATS BADGES ============================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbHaMaDa&label=Profile%20Views&color=f38400&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbHaMaDa&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ---
@@ -101,8 +101,8 @@
     <td align="center" width="100"><img src="https://api.iconify.design/logos/c-plusplus.svg" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/><br/><sub><b>Arduino</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/><br/><sub><b>MATLAB</b></sub></td>
-    <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/proteus.svg?color=%23F38400" width="48" height="48" alt="Proteus"/><br/><sub><b>Proteus</b></sub></td>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi/chip.svg?color=%23F38400" width="48" height="48" alt="PLC"/><br/><sub><b>PLC</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/proteus.svg?color=%233B82F6" width="48" height="48" alt="Proteus"/><br/><sub><b>Proteus</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi/chip.svg?color=%233B82F6" width="48" height="48" alt="PLC"/><br/><sub><b>PLC</b></sub></td>
   </tr>
 </table>
 
@@ -112,7 +112,7 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbHaMaDa&theme=radical&hide_border=true&background=0D1117&stroke=F38400&ring=F38400&fire=F38400&currStreakLabel=F38400" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AbHaMaDa&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbHaMaDa&theme=react-dark&bg_color=0D1117&color=F38400&line=F76C5E&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbHaMaDa&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=A855F7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -161,8 +161,8 @@
 
 <!-- ============================== QUOTE ============================== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <!-- ============================== WAVE FOOTER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76C5E,100:F38400&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:3B82F6,100:22D3EE&height=120&section=footer" width="100%" alt="footer"/>
