@@ -43,13 +43,15 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS"/><br/><sub><b>SASS</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery"/><br/><sub><b>jQuery</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/><br/><sub><b>Redux</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos/material-ui.svg" width="48" height="48" alt="Material UI"/><br/><sub><b>MUI</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
-    <td align="center" width="100"></td>
   </tr>
 </table>
 
@@ -58,6 +60,9 @@
   <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/><br/><sub><b>Laravel</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos/medusa.svg" width="48" height="48" alt="Medusa"/><br/><sub><b>Medusa</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
     <td align="center" width="100"><img src="https://api.iconify.design/carbon/cube.svg?color=%2300ADD8" width="48" height="48" alt="OOP"/><br/><sub><b>OOP</b></sub></td>
   </tr>
 </table>
@@ -66,15 +71,38 @@
 <table align="center">
   <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL / SQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="48" height="48" alt="phpMyAdmin"/><br/><sub><b>phpMyAdmin</b></sub></td>
   </tr>
 </table>
 
-<h4 align="center">Other</h4>
+<h4 align="center">CMS & Platforms</h4>
 <table align="center">
   <tr>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi/sync.svg?color=%230F8BB4" width="48" height="48" alt="AJAX"/><br/><sub><b>AJAX</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress"/><br/><sub><b>WordPress</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo"/><br/><sub><b>Odoo</b></sub></td>
+  </tr>
+</table>
+
+<h4 align="center">API & Data</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger"/><br/><sub><b>Swagger</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/json/F7DF1E" width="48" height="48" alt="JSON"/><br/><sub><b>JSON</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi/sync.svg?color=%230F8BB4" width="48" height="48" alt="AJAX"/><br/><sub><b>AJAX</b></sub></td>
+  </tr>
+</table>
+
+<h4 align="center">🤖 Robotics & Electronics</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos/c.svg" width="48" height="48" alt="C"/><br/><sub><b>C</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos/c-plusplus.svg" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/><br/><sub><b>Arduino</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/><br/><sub><b>MATLAB</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/proteus.svg?color=%23F38400" width="48" height="48" alt="Proteus"/><br/><sub><b>Proteus</b></sub></td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi/chip.svg?color=%23F38400" width="48" height="48" alt="PLC"/><br/><sub><b>PLC</b></sub></td>
   </tr>
 </table>
 
