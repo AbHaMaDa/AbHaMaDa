@@ -97,8 +97,8 @@
 <h4 align="center">🤖 Robotics & Electronics</h4>
 <table align="center">
   <tr>
-    <td align="center" width="100"><img src="https://api.iconify.design/logos/c.svg" width="48" height="48" alt="C"/><br/><sub><b>C</b></sub></td>
-    <td align="center" width="100"><img src="https://api.iconify.design/logos/c-plusplus.svg" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br/><sub><b>C</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/><br/><sub><b>Arduino</b></sub></td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/><br/><sub><b>MATLAB</b></sub></td>
     <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/proteus.svg?color=%233B82F6" width="48" height="48" alt="Proteus"/><br/><sub><b>Proteus</b></sub></td>
