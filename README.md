@@ -8,11 +8,6 @@
   </a>
 </div>
 
-<!-- ============================== HERO BANNER ============================== -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" alt="Cyberpunk coder banner"/>
-</div>
-
 <!-- ============================== STATS BADGES ============================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AbHaMaDa&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views"/>
