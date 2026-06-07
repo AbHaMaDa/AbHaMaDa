@@ -8,6 +8,11 @@
   </a>
 </div>
 
+<!-- ============================== HERO BANNER ============================== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" alt="Cyberpunk coder banner"/>
+</div>
+
 <!-- ============================== STATS BADGES ============================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AbHaMaDa&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views"/>
@@ -162,6 +167,11 @@
 <!-- ============================== QUOTE ============================== -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%27m%20not%20looking%20for%20the%20easiest%20way%2C%20but%20rather%20the%20way%20that%20makes%20me%20understand%20how%20the%20road%20was%20made%20in%20the%20first%20place.&author=ChatGPT%2C%20about%20me" alt="Quote" />
+</div>
+
+<!-- ============================== CLOSING VISUAL ============================== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" alt="Cyberpunk coder closing banner"/>
 </div>
 
 <!-- ============================== WAVE FOOTER ============================== -->
