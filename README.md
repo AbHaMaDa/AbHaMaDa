@@ -121,7 +121,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbHaMaDa&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=A855F7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/AbHaMaDa/AbHaMaDa/output/activity-graph.svg" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
